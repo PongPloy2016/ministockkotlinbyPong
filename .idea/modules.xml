@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ministockkotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/ministockkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ministockkotlin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ministockkotlin.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ministockkotlin.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ministockkotlin.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ministockkotlin.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ministockkotlin.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ministockkotlin.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ministockkotlin.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
